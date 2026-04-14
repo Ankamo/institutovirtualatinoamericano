@@ -4,7 +4,7 @@ const Nav = () => {
       <ul style={{ display: "flex", listStyle: "none", margin: 0, padding: 0 }}>
         <li style={{ marginRight: "1rem" }}>
           <a href="#section1" style={{ color: "#fff", textDecoration: "none" }}>
-            Inicio
+            Inic
           </a>
         </li>
         <li style={{ marginRight: "1rem" }}>
