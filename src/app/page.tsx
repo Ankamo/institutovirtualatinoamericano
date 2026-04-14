@@ -5,13 +5,10 @@ import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <>
-      <Navbar />
       <main>
         {/* Hero Section (El que ya teníamos) */}
         {/* Aquí puedes meter la sección de Diplomados */}
-        <FAQ />
       </main>
-      <Footer />
     </>
   );
 }
